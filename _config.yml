@@ -40,7 +40,7 @@ baseurl: ""
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: chaitalidas1
+    twitter: 
     github: chaitalidas1
 
 # Set this to true to get LaTeX math equation support
